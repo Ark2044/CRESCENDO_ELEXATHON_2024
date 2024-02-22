@@ -59,7 +59,7 @@ void main() {
 
     // Main super loop
     while(1) {
-        // Increment system time every millisecond
+        // Increment system time
         system_time++;
 
         // Check stop button
